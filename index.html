@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Blackjack</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <div class="table">
+    <h1>Blackjack</h1>
+    <p class="subtitle">Want to play a round?</p>
+    <div class="felt-divider"></div>
+
+    <div class="zone">
+      <div class="zone-label">Dealer</div>
+      <div class="card-row" id="dealer-cards-el"></div>
+    </div>
+
+    <div class="zone">
+      <div class="zone-label">You</div>
+      <div class="card-row" id="cards-el"></div>
+    </div>
+
+    <div class="center-board">
+      <p id="message-el">Want to play a round?</p>
+      <div class="sums">
+        <span id="sum-el">Your sum: 0</span>
+        <span id="dealer-sum-el">Dealer sum: —</span>
+      </div>
+    </div>
+
+    <div class="controls">
+      <button id="start-btn" onclick="startGame()">START GAME</button>
+      <button id="hit-btn" onclick="newCard()" disabled>NEW CARD</button>
+      <button id="stand-btn" onclick="stand()" disabled>STAND</button>
+    </div>
+
+    <p id="player-el"></p>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+</html>
