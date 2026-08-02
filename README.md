@@ -59,7 +59,7 @@ cd blackjack
 
 Then simply open **index.html** in your preferred web browser.
 
-No installation, packages, or build tools are required.
+No installation, packages, or build tools are required at all.
 
 ---
 
