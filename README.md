@@ -1,4 +1,4 @@
-### Blackjack
+##### Blackjack
  
 A modern browser-based implementation of the classic **Blackjack (21)** card game, built using **HTML, CSS, and Vanilla JavaScript**.
 
