@@ -9,7 +9,6 @@ This project recreates the core Blackjack experience in the browser with a clean
 ## ✨ Features
 
 * ♠️ Classic Blackjack gameplay
-* 🤖 Computer-controlled dealer AI
 * 🃏 Random card generation
 * 👀 Hidden dealer card until the player's turn ends
 * 💰 Chip balance system
@@ -40,7 +39,6 @@ blackjack/
 ├── index.css
 ├── index.js
 ├── README.md
-└── LICENSE
 ```
 
 ---
@@ -50,7 +48,7 @@ blackjack/
 Clone the repository:
 
 ```bash
-git clone https://github.com/maybeaariz/blackjack.git
+git clone https://github.com/maybeaariz/black-jack-game.git
 ```
 
 Open the project:
@@ -130,14 +128,6 @@ Planned features include:
 * Player statistics
 * Leaderboards
 * Multiplayer mode
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License**.
-
----
 
 ## 👨‍💻 Author
 
