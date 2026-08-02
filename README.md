@@ -1,5 +1,3 @@
-# ♠️ Blackjack
-
 A modern browser-based implementation of the classic **Blackjack (21)** card game, built using **HTML, CSS, and Vanilla JavaScript**.
 
 This project recreates the core Blackjack experience in the browser with a clean casino-inspired interface, responsive layout, animated cards, and a computer-controlled dealer. It was created to strengthen JavaScript fundamentals, DOM manipulation, game state management, and front-end development skills.
