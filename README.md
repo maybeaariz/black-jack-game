@@ -83,16 +83,6 @@ Beat the dealer by getting a hand value as close to **21** as possible without g
 
 ---
 
-## 💵 Betting
-
-* Every player starts with **$200**.
-* Each round places a fixed **$10** bet.
-* Winning increases your balance.
-* Losing decreases your balance.
-* A push (tie) leaves your balance unchanged.
-
----
-
 ## 🧠 What I Learned
 
 Developing this project helped improve my understanding of:
